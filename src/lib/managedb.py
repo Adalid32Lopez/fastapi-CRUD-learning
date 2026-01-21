@@ -10,3 +10,4 @@ class ManageDb:
 
 md = ManageDb()
 print(md.read_contact())
+ 
